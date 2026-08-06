@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-m3upt.xml.xz"
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Generalistas", TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=303370909&wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjYgODo1NDoyOSBQTSZoYXNoX3ZhbHVlPS9qRjZCR1pQZFAxZW9KNnA2V1FVcVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZTIwNWM2OS02NGU1LTRlOTQtOTFiZS1lMWUwOTgzNTQwODY=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=https://tviplayer.iol.pt/
